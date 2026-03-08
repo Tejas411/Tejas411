@@ -4,6 +4,7 @@
 > Deep in learning mode – building AI-powered products.
 
 ## Current Projects
+- 👋 **[Portfolio](https://tejas411.github.io/)** - Personal portfolio website
 - 🚀 **[BrainBrew](https://github.com/Tejas411/webDevBoot)** - Daily brew for your brain
 
 ## What I'm Doing
@@ -14,7 +15,7 @@
 
 - [**Infoedge**] | Sr. Product Manager - *May 2021 - Ongoing*
 - [**Zomato**] | Data Science & Product Analytics - *Jul 2017 - Jun 2019*
-- [**Ola **] | Analytics - *Jun 2015 - Jun 2017*
+- [**Ola**] | Analytics - *Jun 2015 - Jun 2017*
 
 ## Connect
 [![LinkedIn](https://img.shields.io/badge/-Tejas_Kolhe-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejas-kolhe411)
